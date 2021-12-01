@@ -1,0 +1,35 @@
+/* Bendros taisyklės */
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p,
+h1,
+h2,
+h3 {
+    color: blue;
+    margin: 50px;
+    border: 1px solid green;
+}
+
+h2 {
+    font-weight: 100;
+}
+
+header h2 {
+    color: red;
+}
+
+header div section h2 {
+    color: blue;
+}
+
+main h2 {
+    color: green;
+}
+
+section .post {
+    color: red;
+
+    font-size: 2em;
+}

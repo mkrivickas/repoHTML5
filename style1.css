@@ -1,0 +1,44 @@
+/* 
+Style the HTML elements according to the following instructions. 
+WRITE ONLY CSS!
+*/
+* {
+    text-align: justify;
+    /* font-size: 2em;
+    line-height: 1.5; */
+}
+body {
+    background-color: lightgray;
+}
+
+h1 {
+    color: purple;
+}
+h2,
+h3 {
+    color: orange;
+}
+
+div > p {
+    font-size: 25px;
+}
+
+.hello {
+    background-color: white;
+}
+
+#special {
+    border: 2px solid blue;
+}
+
+#special2 span {
+    border: 2px solid red;
+}
+
+div ul {
+    color: darkblue;
+}
+
+div ul ul {
+    color: purple;
+}
