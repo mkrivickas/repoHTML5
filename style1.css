@@ -12,11 +12,11 @@ body {
 }
 
 h1 {
-    color: purple;
+    color: orange;
 }
 h2,
 h3 {
-    color: orange;
+    color: yellow;
 }
 
 div > p {
@@ -41,4 +41,8 @@ div ul {
 
 div ul ul {
     color: purple;
+}
+
+.center{
+    margin-left: 50%;
 }

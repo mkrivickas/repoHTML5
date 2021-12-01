@@ -7,7 +7,7 @@ p,
 h1,
 h2,
 h3 {
-    color: blue;
+    color: black;
     margin: 50px;
     border: 1px solid green;
 }
@@ -17,19 +17,19 @@ h2 {
 }
 
 header h2 {
-    color: red;
+    color: orange;
 }
 
 header div section h2 {
-    color: blue;
+    color: teal;
 }
 
 main h2 {
-    color: green;
+    color: cyan;
 }
 
 section .post {
-    color: red;
+    color: white;
 
     font-size: 2em;
 }
